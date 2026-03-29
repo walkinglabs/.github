@@ -17,7 +17,7 @@ We aim to build an open, rigorous, and long-term technical space where frontier 
 If you are interested in **agents, RL, LLM systems, embodied intelligence, or next-generation AI infrastructure**, welcome to explore and build with WalkingLabs.
 
 <p align="center">
-  <img src="https://github.com/walkinglabs/.github/blob/main/QR.png" alt="WalkingLabs QR Code" width="220" />
+  <img src="https://github.com/walkinglabs/.github/blob/main/profile/QR.png" alt="WalkingLabs QR Code" width="220" />
 </p>
 
 <details>
