@@ -4,16 +4,6 @@ WalkingLabs is an open-source lab focused on **Agentic AI, intelligent agents, a
 
 We are committed to exploring the next generation of intelligent systems that can perceive, plan, reason, act, and continuously improve. Centered around LLM-powered agents, reinforcement learning, tool use, multi-agent collaboration, and real-world applications, we build high-quality open-source projects, tutorials, and developer infrastructure.
 
-### Focus Areas
-
-- **Agentic AI**: autonomous agent architectures and execution systems for complex tasks  
-- **LLM Agents**: planning, memory, tool use, and task decomposition with large language models  
-- **Reinforcement Learning**: RL methods for decision optimization, policy learning, and agent improvement  
-- **Multi-Agent Systems**: collaboration, communication, and orchestration across multiple agents  
-- **Open Tutorials & Open Source**: lowering the barrier through clear tutorials and advancing the ecosystem through open-source projects  
-
-We aim to build an open, rigorous, and long-term technical space where frontier agent ideas are translated into reproducible, scalable, and practical open-source systems.
-
 If you are interested in **agents, RL, LLM systems, embodied intelligence, or next-generation AI infrastructure**, welcome to explore and build with WalkingLabs.
 
 <p align="center">
