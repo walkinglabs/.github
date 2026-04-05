@@ -1,6 +1,6 @@
 ## WalkingLabs
 
-WalkingLabs is an open-source lab focused on **agentic AI, intelligent agents, and reinforcement learning (RL)**, founded by students at THU SIGS.
+WalkingLabs is an open-source lab focused on **agentic AI, intelligent agents, and reinforcement learning (RL)**, from THU SIGS.
 
 If you are interested in **agents, RL, LLM systems, embodied intelligence, or next-generation AI infrastructure**, welcome to explore and build with WalkingLabs.
 
