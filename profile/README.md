@@ -5,7 +5,7 @@ WalkingLabs is an open-source lab focused on **agentic AI, intelligent agents, a
 If you are interested in **agents, RL, LLM systems, embodied intelligence, or next-generation AI infrastructure**, welcome to explore and build with WalkingLabs.
 
 <p align="center">
-  <img src="https://github.com/walkinglabs/.github/blob/main/profile/QR.png" alt="WalkingLabs QR Code" width="220" />
+  <img src="https://github.com/walkinglabs/.github/blob/main/profile/wechat.png" alt="WalkingLabs WeChat Group QR Code" width="220" />
 </p>
 
 <details>
