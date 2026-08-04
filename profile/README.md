@@ -5,7 +5,7 @@ WalkingLabs is an open-source lab focused on **agentic AI, multi agents, and rei
 
 If you are interested in **agents, RL, LLM systems, embodied intelligence, or next-generation AI infrastructure**, welcome to explore and build with WalkingLabs.
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/XU7DQmpqk)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/ETWczxp62)
 
 <p align="center">
   <img src="https://github.com/walkinglabs/.github/blob/main/profile/wechat.png" alt="WalkingLabs community banner" width="640" />
@@ -32,6 +32,6 @@ WalkingLabs 是一个专注于 **Agentic AI、智能体系统（Agents）与强�
 
 如果你关注 **Agent、RL、LLM Systems、Embodied Intelligence** 或下一代 AI 开发基础设施，欢迎关注并参与 WalkingLabs。
 
-欢迎加入 WalkingLabs Discord 社区：[https://discord.gg/XU7DQmpqk](https://discord.gg/XU7DQmpqk)
+欢迎加入 WalkingLabs Discord 社区：[https://discord.gg/ETWczxp62](https://discord.gg/ETWczxp62)
 
 </details>
