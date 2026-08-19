@@ -1,6 +1,6 @@
-## WalkingLabs
+## WalkingLab
 
-WalkingLabs is an open-source AI lab exploring the future of intelligent systems, including **agentic AI, LLM systems, reinforcement learning (RL), and embodied intelligence**.
+WalkingLab is an open-source AI lab exploring the future of intelligent systems, including **agentic AI, LLM systems, reinforcement learning (RL), and embodied intelligence**.
 
 Our mission is to make frontier AI accessible to everyone — enabling more people to understand, build, and create intelligent systems through open-source projects, hands-on tutorials, and reproducible experiments.
 
@@ -17,13 +17,13 @@ If you are interested in **agents, RL, LLM systems, embodied intelligence, or ne
 <details>
 <summary>中文介绍</summary>
 
-## WalkingLabs
+## WalkingLab
 
-WalkingLabs 是一个探索下一代智能系统的开源 AI 实验室，关注 **Agentic AI、智能体系统（Agents）、大语言模型系统（LLM Systems）、强化学习（RL）与具身智能（Embodied Intelligence）** 等前沿方向。
+WalkingLab 是一个探索下一代智能系统的开源 AI 实验室，关注 **Agentic AI、智能体系统（Agents）、大语言模型系统（LLM Systems）、强化学习（RL）与具身智能（Embodied Intelligence）** 等前沿方向。
 
 我们相信，人工智能的未来不应该只属于少数人。
 
-WalkingLabs 致力于让最前沿的人工智能知识向每个人开放，让更多人能够理解、实现并创造智能系统。
+WalkingLab 致力于让最前沿的人工智能知识向每个人开放，让更多人能够理解、实现并创造智能系统。
 
 我们相信：**每个人，都能教会机器思考。**
 
