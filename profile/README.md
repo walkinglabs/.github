@@ -1,7 +1,16 @@
 ## WalkingLabs
 
-WalkingLabs is an open-source lab focused on **agentic AI, multi agents, and reinforcement learning (RL)**, from THU SIGS.  
-* Our goal is to permanently reduce the difficulty for everyone to learn large language models and agents within this year.
+WalkingLabs is an open-source AI lab exploring the future of intelligent systems, including **agentic AI, LLM systems, reinforcement learning (RL), and embodied intelligence**.
+
+We believe the future of intelligence should not belong only to a few.
+
+Our mission is to make frontier AI accessible to everyone — enabling more people to understand, build, and create intelligent systems through open-source projects, hands-on tutorials, and reproducible experiments.
+
+We believe **everyone can teach machines how to think**.
+
+Technology should not only make machines more capable, but also empower more people to create.
+
+We do not lower the frontier. We break the barriers to reach it.
 
 If you are interested in **agents, RL, LLM systems, embodied intelligence, or next-generation AI infrastructure**, welcome to explore and build with WalkingLabs.
 
@@ -14,24 +23,35 @@ If you are interested in **agents, RL, LLM systems, embodied intelligence, or ne
 <details>
 <summary>中文介绍</summary>
 
-## WalkingLabs
+## WalkingLabs｜散步实验室
 
-WalkingLabs 是一个专注于 **Agentic AI、智能体系统（Agents）与强化学习（RL）** 的开源实验室。
+WalkingLabs 是一个探索下一代智能系统的开源 AI 实验室，关注 **Agentic AI、智能体系统（Agents）、大语言模型系统（LLM Systems）、强化学习（RL）与具身智能（Embodied Intelligence）** 等前沿方向。
 
-我们致力于探索能够感知、规划、推理、行动与持续优化的新一代智能体系统，并围绕大模型驱动的 Agent、强化学习、工具使用、多智能体协作以及真实任务场景，打造高质量的开源项目、教程与开发基础设施。
+我们相信，人工智能的未来不应该只属于少数人。
+
+WalkingLabs 致力于让最前沿的人工智能知识向每个人开放，通过开源项目、实践教程和可复现实验，让更多人能够理解智能、亲手实现智能，并继续创造智能系统。
+
+我们相信：
+
+> **每个人，都能教会机器思考。**
+
+技术的价值，不只是让机器变得更强，更是让更多人拥有创造的能力。我们探索真正推动下一代智能发展的论文、方法与工程实践，并将它们转化为开放、严谨、可以亲手完成的项目。
 
 ### 重点方向
 
-- **Agentic AI**：面向复杂任务的自主智能体架构与执行系统  
-- **LLM Agents**：基于大语言模型的规划、记忆、工具调用与任务分解  
-- **Reinforcement Learning**：用于决策优化、策略学习与智能体能力提升的 RL 方法  
-- **Multi-Agent Systems**：多智能体协作、通信与任务编排机制  
-- **Open Tutorials & Open Source**：以清晰的教程降低门槛，以开源项目推动社区共建  
+- **Agentic AI**：面向复杂任务的自主智能体架构、规划与执行系统
+- **LLM Systems**：大语言模型训练、推理、评估与基础设施
+- **Reinforcement Learning**：强化学习与智能体能力优化
+- **Multi-Agent Systems**：多智能体协作、通信与任务编排机制
+- **Embodied Intelligence**：连接感知、行动与世界模型的新一代智能系统
+- **Open Source AI**：开放代码、教程与实验，共建下一代智能系统
 
-我们希望打造一个开放、严谨且长期主义的技术空间，让前沿的智能体理念不仅易于理解，也能够沉淀为可复现、可扩展、可落地的开源系统。
+我们希望建立一个开放、严谨、长期主义的技术空间，让学习者从理解前沿，到亲手构建，再到独立创造。
 
-如果你关注 **Agent、RL、LLM Systems、Embodied Intelligence** 或下一代 AI 开发基础设施，欢迎关注并参与 WalkingLabs。
+如果你关注 **Agent、RL、LLM Systems、Embodied Intelligence** 或下一代 AI 基础设施，欢迎加入 WalkingLabs，一起探索与构建。
 
-欢迎加入 WalkingLabs Discord 社区：[https://discord.gg/ETWczxp62](https://discord.gg/ETWczxp62)
+欢迎加入 WalkingLabs Discord 社区：
+
+https://discord.gg/ETWczxp62
 
 </details>
